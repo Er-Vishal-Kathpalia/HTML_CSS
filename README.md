@@ -2,7 +2,8 @@
 ConstructionWebsite
 ***This is a HTML based College Project which includes the front end pages of Construction website***
 
-**This is the First homepage of website**__
+**This is the First homepage of website**
+<br />
 ![alt text](https://github.com/Er-Vishal-Kathpalia/HTML_CSS/blob/main/Project%20Pictures/Homepage.png)
 
 **This is the login page of website**__
